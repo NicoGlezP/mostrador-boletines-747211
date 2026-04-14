@@ -1,4 +1,4 @@
-# procesador-boletines-747211
+# mostardor-boletines-747211
 
 ## Práctica 04 - Comunicación entre contenedores
 #### **Actividad 3:** Creación de servicio que muestre el contenido de los boletines.
@@ -23,8 +23,8 @@ Seís actividades en esta práctica.
 #### **Actividad 1 (10 puntos):** Creación de una cuenta y configuración de un archivo de github actions
 1. Crear una cuenta de Github y crear un repositorio para cada uno de los módulos realizados dentro de la práctica 4:
    1. receptor-boletines-expediente
-   2. procesador-boletines-expediente
-   3. generador-boletines-expediente
+   2. mostrador-boletines-expediente
+   3. emisor-boletines-expediente
 2. Cada uno de los proyectos deberá de tener un archivo para github actions. Pueden utilizar el ejemplo creado en la clase o bien el ejemplo subido aquí (el. cual ya debería de realizar la conexión a las instancias de EC2)
 
 #### **Actividad 2 (20 puntos):** Modificación del github actions para la elaboración de la etapa build
